@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **any programming**
 
--  I’m currently learning **JavaScript, Java, C#, Nodejs, Reactjs, MySQL**
+-  I’m currently learning **JavaScript, Java, C++, PHP, SQL**
 
 - 👨‍💻 My pronouns **she/her**
 
