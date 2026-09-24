@@ -18,9 +18,15 @@
   <img src="https://cdn.discordapp.com/attachments/1113575914616295554/1113580436972273766/pats.gif" width="180" alt="Pixel Art Petting Cat GIF" />
 </div>
 
-<h1 align="center">Olá Mundo! Eu sou a Gabriela</h1>
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" loop="infinite" width="100%">
+    <img src="./catWalking.gif" width="70" alt="Gato branco pixelado andando com lenço rosa" />
+  </marquee>
+</div>
 
-<h3 align="center">Bem-vindo(a) ao meu perfil!</h3>
+<h1 align="center">Hello World!!!</h1>
+
+<h3 align="center">Bem-vindo(a) ao meu perfil</h3>
 
 <p align="center">
   Sou uma desenvolvedora Full Stack em formação na Fatec ZS, movida pela curiosidade, tecnologia e aprendizado constante. Aqui você encontrará alguns dos projetos que fazem parte da minha jornada na programação!
@@ -59,11 +65,11 @@
 <h3>Alguns Projetos:</h3>
 
 <div align="center">
-  <a href="https://github.com/XhScarlet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XhScarlet&repo=[Kao Art](https://github.com/XhScarlet/KaoArt)&theme=dracula" />
+  <a href="https://github.com/XhScarlet/KaoArt" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XhScarlet&repo=KaoArt&theme=dracula" />
   </a>
-  <a href="https://github.com/XhScarlet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XhScarlet&repo=[Transportadora Expresso](https://github.com/XhScarlet/TransportadoraExpresso)&theme=dracula" />
+  <a href="https://github.com/XhScarlet/TransportadoraExpresso" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XhScarlet&repo=TransportadoraExpresso&theme=dracula" />
   </a>
 </div>
 
