@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">🎓 Formação: Desenvolvimento de Software Multiplataforma - Fatec ZS (conclusão prevista: JUL/2028)<br>💼 Atualmente: Estágiaria de TI na Subprefeitura de São Paulo<br>🔁 Experiência: Criação de dashboards para a automação de tarefas de fúncionarios da Subprefeitura utilizando JavaScript, MySql, Tailwind, TypeScript e React</p>
+<p align="left">🎓 Formação: Desenvolvimento de Software Multiplataforma - Fatec ZS (conclusão prevista: JUL/2028)<br>💼 Atualmente: Estágiaria de TI na Subprefeitura de São Paulo<br>🔁 Experiência: Criação de dashboards para a automação de tarefas de funcionários da Subprefeitura utilizando JavaScript, MySql, Tailwind, TypeScript e React</p>
 
 ###
 
@@ -67,13 +67,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XhScarlet/XhScarlet/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XhScarlet/XhScarlet/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/XhScarlet/XhScarlet/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
