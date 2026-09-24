@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://br.linkedin.com/in/gabrielacardososantos" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriela-cardoso-ti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
   <a href="https://dev.to" target="_blank">
