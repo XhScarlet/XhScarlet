@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,py,php,mysql,tailwind,bootstrap&perline=6" alt="Minhas Techs" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,html,css,py,php,mysql,tailwind,bootstrap&perline=6" alt="Minhas Techs" />
   </a>
 </div>
 
@@ -56,7 +56,7 @@
 <h3>Minhas Estatísticas:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XhScarlet&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=XhScarlet&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=XhScarlet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
 </div>
 
@@ -66,10 +66,10 @@
 
 <div align="center">
   <a href="https://github.com/XhScarlet/KaoArt" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XhScarlet&repo=KaoArt&theme=dracula" />
+    <img src="https://img.shields.io/badge/KaoArt-Projeto_Art%C3%ADstico-ff79c6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/XhScarlet/TransportadoraExpresso" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XhScarlet&repo=TransportadoraExpresso&theme=dracula" />
+    <img src="https://img.shields.io/badge/Transportadora_Expresso-Sistema_de_Log%C3%ADstica-8be9fd?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
