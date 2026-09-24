@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="center">Sou um desenvolvedor Full Stack em formação, movido pela curiosidade, tecnologia e aprendizado constante. Aqui você encontrará alguns dos projetos que fazem parte da minha jornada de evolução na programação.</h4>
+<h4 align="center">Sou uma desenvolvedora Full Stack em formação, movida pela curiosidade, tecnologia e aprendizado constante. Aqui você encontrará alguns dos projetos que fazem parte da minha jornada de evolução na programação.</h4>
 
 ###
 
