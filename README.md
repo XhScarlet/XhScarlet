@@ -1,71 +1,75 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&text=Gabriela%20Cardoso&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Desenvolvedora%20Full%20Stack%20em%20Forma%C3%A7%C3%A3o&descSize=20&descAlign=50&descAlignY=70&color=gradient" />
 </div>
-
-###
 
 <div align="center">
   <a href="https://br.linkedin.com/in/gabrielacardososantos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://dev.to" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="devto logo" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo" />
 </div>
 
-###
-
-<h1 align="center">👩🏻‍💻Hello world! I'm Gabriela 🔍</h1>
-
-###
-
-<h3 align="center">Bem-vindo ao meu perfil! 🚀</h3>
-
-###
-
-<h4 align="center">Sou uma desenvolvedora Full Stack em formação, movida pela curiosidade, tecnologia e aprendizado constante. Aqui você encontrará alguns dos projetos que fazem parte da minha jornada de evolução na programação.</h4>
-
-###
+<br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=XhScarlet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://cdn.discordapp.com/attachments/1113575914616295554/1113580436972273766/pats.gif" width="180" alt="Pixel Art Petting Cat GIF" />
 </div>
 
-###
+<h1 align="center">Olá Mundo! Eu sou a Gabriela</h1>
 
-<h3 align="left">🚀 Sobre mim:</h3>
+<h3 align="center">Bem-vindo(a) ao meu perfil!</h3>
 
-###
+<p align="center">
+  Sou uma desenvolvedora Full Stack em formação na Fatec ZS, movida pela curiosidade, tecnologia e aprendizado constante. Aqui você encontrará alguns dos projetos que fazem parte da minha jornada na programação!
+</p>
 
-<p align="left">🎓 Formação: Desenvolvimento de Software Multiplataforma - Fatec ZS (conclusão prevista: JUL/2028)<br>💼 Atualmente: Estágiaria de TI na Subprefeitura de São Paulo<br>🔁 Experiência: Criação de dashboards para a automação de tarefas de funcionários da Subprefeitura utilizando JavaScript, MySql, Tailwind, TypeScript e React</p>
+---
 
-###
+<h3>Sobre mim:</h3>
 
-<h3 align="left">✨ Tech Stacks:</h3>
+* 🎓 **Formação:** Desenvolvimento de Software Multiplataforma - **Fatec ZS** *(Previsão: JUL/2028)*
+* 💼 **Atuação:** Estagiária de TI na **Subprefeitura de São Paulo**
+* 🛠️ **Experiência Prática:** Criação de dashboards e automação de rotinas para servidores utilizando JS, TS, React, Tailwind e MySQL
+* 💡 **Interesses:** Desenvolvimento Web, Engenharia de Software e Soluções com impacto real
 
-###
+---
+
+<h3>Minhas Techs:</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,py,php,mysql,tailwind,bootstrap&perline=6" alt="Minhas Techs" />
+  </a>
 </div>
 
-###
+---
+
+<h3>Minhas Estatísticas:</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XhScarlet&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=XhScarlet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
+</div>
+
+---
+
+<h3>Alguns Projetos:</h3>
+
+<div align="center">
+  <a href="https://github.com/XhScarlet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XhScarlet&repo=[Kao Art](https://github.com/XhScarlet/KaoArt)&theme=dracula" />
+  </a>
+  <a href="https://github.com/XhScarlet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XhScarlet&repo=[Transportadora Expresso](https://github.com/XhScarlet/TransportadoraExpresso)&theme=dracula" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="./gato.gif" width="150" alt="Pixel Cat GIF" />
+  <p><i>"Sempre em busca do próximo bug para resolver." ☕</i></p>
+</div>
