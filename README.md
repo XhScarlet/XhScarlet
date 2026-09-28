@@ -14,9 +14,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1113575914616295554/1113580436972273766/pats.gif" width="180" alt="Pixel Art Petting Cat GIF" />
-</div>
 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" loop="infinite" width="100%">
